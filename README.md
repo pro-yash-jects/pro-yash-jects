@@ -7,14 +7,6 @@
  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═════╝ ╚═════╝ 
             [ YASH YADAV // 0xr00t3d // DEVSECOPS & APPSEC ]
 ```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-YASH_YADAV-00FF66?style=flat-square&logo=hackthebox&logoColor=black&labelColor=0D1117" alt="Identity" />
-  <img src="https://img.shields.io/badge/CLEARANCE-ROOT%20%2F%20SECOPS-00E5FF?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117" alt="Clearance" />
-  <img src="https://img.shields.io/badge/PIPELINE-SAST%20%2F%20DAST%20HARDENED-39FF14?style=flat-square&logo=sonarqube&logoColor=white&labelColor=0D1117" alt="Pipeline" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=flat-square&logo=airplayvideo&logoColor=white&labelColor=0D1117" alt="Status" />
-</p>
-
 ---
 
 ### > whoami
